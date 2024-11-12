@@ -1,0 +1,248 @@
+<?xml version='1.0' standalone='yes'?>
+<manifest version="1.1">
+  <versioninfo>
+    <build date="20070321" lang="en_US" phase_major="Milestone" phase_minor="7" product="Photoshop" target="Retail" time="020000" version="10.0.0" version_build="20070321.m.1480">
+      <components>
+        <build date="20070316" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="144827" version="Weekly" version_build="135">
+          <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@214248" scheme="p4" />
+        </build>
+        <build date="20070314" lang="mul" phase_major="" phase_minor="" product="Extendscript" target="" time="134105" version="Marilyn" version_build="280300" />
+        <build date="20070228" lang="en_us" phase_major="" phase_minor="" product="AMTLib" target="" time="174317" version="Marilyn" version_build="278103" />
+        <build date="20070222" lang="mul" phase_major="Milestone" phase_minor="2" product="Adobe Help Viewer" target="Retail" time="020000" version="1.1" version_build="20070222.m.143">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="boxer.corp.adobe.com:1780" path="//xmedia-cms/Server/GEP/HelpViewer/1.1/..." query="020000" scheme="p4" />
+        </build>
+        <build date="20070307" lang="mul" phase_major="" phase_minor="2" product="STI_AssetServices" target="Retail" time="191220" version="3.0.0" version_build="78d">
+          <components>
+            <build date="20070228" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="162656" version="Weekly" version_build="130">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@212551" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="ham-perforce.eur.adobe.com:1710" path="//vc-server/v3_0_0/..." query="@145967" scheme="p4" />
+        </build>
+        <build AdobeIPNumber="A0000253" date="20070228" lang="mul" phase_major="" phase_minor="" product="STI_AUM" target="" time="230638" version="Ladro" version_build="20070228.m.165">
+          <components>
+            <build date="20070222" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="133353" version="Weekly" version_build="125">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@211917" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000311" date="20070220" lang="mul" phase_major="" phase_minor="" product="STI_ALM_AnchorService" target="" time="111308" version="Ladro" version_build="20070220.m.155">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeCode="A0000271" date="20070314" lang="mul" phase_major="" phase_minor="" product="Bridge" target="Retail_Licensing" time="193634" version="2.0.0" version_build="975">
+          <components>
+            <build date="20070214" lang="mul" phase_major="" phase_minor="" product="File Info" target="" time="063243" version="3.2.0" version_build="267">
+              <components>
+                <build date="20060821" lang="mul" phase_major="" phase_minor="" product="BIB" target=" " time="231231" version="Daily" version_build="1.246902" />
+                <build date="20070118" lang="mul" phase_major="" phase_minor="" product="XMP" target=" " time="182504" version="Daily" version_build="1.271125" />
+              </components>
+              <repository authority="yorktown.corp.adobe.com:1820" path="//xmp/fileinfo/main/..." query="@119099" scheme="p4" />
+            </build>
+            <build date="20070208" lang="mul" phase_major="" phase_minor="0" product="Version Cue Client" target="" time="150222" version="3.0.0" version_build="74a">
+              <components>
+                <build date="20070130" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="225736" version="Marilyn" version_build="273530" />
+              </components>
+              <repository authority="ham-perforce.eur.adobe.com:1710" path="//vc-client/release/..." query="@144711" scheme="p4" />
+            </build>
+            <build date="20070215" lang="en_us" phase_major="" phase_minor="" product="AMTLib" target="" time="223447" version="Marilyn" version_build="276280" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="ACE" target="" time="221141" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="AGM" target="" time="223737" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="ARE" target="" time="221141" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="BIB" target="" time="221141" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="BIBUtils" target="" time="221141" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="CoolType" target="" time="223737" version="Marilyn" version_build="272976" />
+            <build date="20070127" lang="mul" phase_major="" phase_minor="" product="MPS" target="" time="221141" version="Marilyn" version_build="272976" />
+            <build date="20070221" lang="mul" phase_major="" phase_minor="" product="XML" target="" time="223900" version="Marilyn" version_build="277092" />
+            <build date="20070314" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="134105" version="Marilyn" version_build="280300" />
+            <build date="20070202" lang="mul" phase_major="" phase_minor="" product="JPEG" target="" time="094649" version="Marilyn" version_build="274008" />
+            <build date="20070201" lang="mul" phase_major="" phase_minor="" product="PDFLib" target="" time="223844" version="Marilyn" version_build="92942" />
+            <build date="20070201" lang="mul" phase_major="" phase_minor="" product="Fargo" target="" time="221202" version="Marilyn" version_build="306386" />
+            <build date="20070201" lang="mul" phase_major="" phase_minor="" product="SVG" target="" time="223844" version="Marilyn" version_build="274008" />
+            <build date="20070223" lang="mul" phase_major="" phase_minor="" product="XMP" target="" time="141708" version="Marilyn" version_build="277092" />
+            <build date="20070308" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="173625" version="Weekly" version_build="133">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@213374" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="yorktown.corp.adobe.com:1820" path="//bridge/piggy/REL2/..." query="@119740" scheme="p4" />
+        </build>
+        <build date="20070307" lang="mul" phase_major="" phase_minor="" product="Bridge Start Meeting" target="Retail" time="114216" version="1.0" version_build="20070307.m.41">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="midway.sea.adobe.com:1800" path="//depot/bridge_meets/..." query="@395751" scheme="p4" />
+        </build>
+        <build date="20070302" lang="mul" phase_major="" phase_minor="" product="STI_CameraRaw" target="Release" time="092253" version="4.0" version_build="20070302.r.757">
+          <components>
+            <build date="20070222" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="133353" version="Weekly" version_build="125">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@211917" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000320" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_CMaps" target="" time="210511" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000182" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_Color_CommonSet" target="" time="210919" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000182" date="20070219" lang="en_US,es_MX,fr_CA,ja_JP,ko_KR,zh_CN,zh_TW" phase_major="" phase_minor="" product="STI_Color_EU_ExtraSettings" target="" time="211220" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000182" date="20070223" lang="en_US,es_MX,fr_CA,ar_AE,cs_CZ,da_DK,de_DE,el_GR,en_CE,en_GB,en_ME,es_ES,es_LA,fi_FI,fr_FR,fr_ME,hu_HU,it_IT,iw_IL,nb_NO,nl_NL,pl_PL,pt_BR,pt_PT,ru_RU,sv_SE,tr_TR" phase_major="" phase_minor="" product="STI_Color_JA_ExtraSettings" target="" time="120321" version="Ladro" version_build="20070223.m.161">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000182" date="20070219" lang="en_US, es_MX, fr_CA" phase_major="" phase_minor="" product="STI_Color_NA_Recommended" target="" time="212825" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000337" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_DefaultLanguage" target="" time="213550" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000182" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_Color_Photoshop" target="" time="213054" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build date="20070315" lang="mul" phase_major="pre-alpha" phase_minor="" product="DeviceCentral" target="Retail" time="102318" version="1.0.0" version_build="588">
+          <components>
+            <build date="20070215" lang="en_us" phase_major="" phase_minor="" product="AMTLib" target="" time="223447" version="Marilyn" version_build="276280" />
+            <build date="20070314" lang="mul" phase_major="" phase_minor="" product="Extendscript" target="" time="134105" version="Marilyn" version_build="280300" />
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="ham-perforce.eur.adobe.com:1700" path="//MobileCenter/main/..." query="114057" scheme="p4" />
+        </build>
+        <build date="20070314" lang="mul" phase_major="" phase_minor="" product="ExtendScriptToolKit" target="" time="173542" version="2.0" version_build="20070314.m.058">
+          <components>
+            <build date="20070308" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="173625" version="Weekly" version_build="133">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@213374" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="None" date="20070220" lang="mul" phase_major="" phase_minor="" product="STI_Fonts" target="" time="164821" version="Ladro" version_build="20070220.m.158">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000244" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_Linguistics" target="" time="214548" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeIPNumber="A0000307" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_PDFL" target="" time="215452" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build date="20070226" lang="en_US,en_GB,fr_FR,da_DK,nl_NL,fi_FI,de_DE,it_IT,pt_BR,es_ES,sv_SV,no_NO,sv_SE" phase_major="" phase_minor="" product="STI_PDFSettings" target="" time="120000" version="Ladro" version_build="20070226.m.155">
+          <components>
+            <build date="20070222" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="133353" version="Weekly" version_build="125">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@211917" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build date="20070316" lang="mul" phase_major="" phase_minor="" product="Adobe Stock Photos" target="Retail" time="114309" version="1.5" version_build="466">
+          <components>
+            <build date="20070314" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="134105" version="Marilyn" version_build="280300" />
+            <build date="20070223" lang="mul" phase_major="" phase_minor="" product="XMP" target="" time="141708" version="Marilyn" version_build="277092" />
+            <build date="20070308" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="173625" version="Weekly" version_build="133">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@213374" scheme="p4" />
+            </build>
+            <build date="20070208" lang="mul" phase_major="" phase_minor="0" product="Version Cue Client" target="" time="150222" version="3.0.0" version_build="74a">
+              <components>
+                <build date="20070130" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="225736" version="Marilyn" version_build="273530" />
+              </components>
+              <repository authority="ham-perforce.eur.adobe.com:1710" path="//vc-client/release/..." query="@144711" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="yorktown.corp.adobe.com:1810" path="//ptsgsrvc/Branches/Mocha/StockPhotography/..." query="@26634" scheme="p4" />
+        </build>
+        <build AdobeIPNumber="A0000134" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_TypeSpt" target="" time="220343" version="Ladro" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+        <build AdobeCode="A0000329" date="20070221" lang="mul" phase_major="" phase_minor="" product="XMP Panels" target="Retail" time="070811" version="1.0.0" version_build="49">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="yorktown.corp.adobe.com:1820" path="//xmp/panels/main/..." query="@119300" scheme="p4" />
+        </build>
+        <build date="20070308" lang="mul" phase_major="" phase_minor="0" product="STI_VersionCueClient" target="" time="163853" version="3.0.0" version_build="78c">
+          <components>
+            <build date="20070228" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="162656" version="Weekly" version_build="130">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@212551" scheme="p4" />
+            </build>
+            <build date="20070308" lang="mul" phase_major="" phase_minor="0" product="Version Cue Client" target="" time="151345" version="3.0.0" version_build="78c">
+              <components>
+                <build date="20070213" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="131647" version="Marilyn" version_build="275676" />
+              </components>
+              <repository authority="ham-perforce.eur.adobe.com:1710" path="//vc-client/release/..." query="@145981" scheme="p4" />
+            </build>
+          </components>
+          <repository authority="ham-perforce.eur.adobe.com:1710" path="//vc-client/release/..." query="@145981" scheme="p4" />
+        </build>
+        <build date="20070116" lang="mul" phase_major="beta" phase_minor="0" product="Version Cue Client" target="" time="230149" version="3.0.0" version_build="69">
+          <components>
+            <build date="20070110" lang="mul" phase_major="" phase_minor="" product="ExtendScript" target="" time="225240" version="Marilyn" version_build="269558" />
+          </components>
+          <repository authority="1710" path="//vc-client/release/..." query="@143195" scheme="p4" />
+        </build>
+        <build AdobeIPNumber="None" date="20070219" lang="mul" phase_major="" phase_minor="" product="STI_Linguistics_WinSoftPlugin" target="" time="215154" version="1.0" version_build="20070219.m.153">
+          <components>
+            <build date="20070216" lang="mul" phase_major="" phase_minor="" product="RIBS" target="" time="145128" version="Weekly" version_build="121">
+              <repository authority="redcloud.corp.adobe.com:1850" path="//releases/ct/marilyn/amt/ribs/..." query="@210863" scheme="p4" />
+            </build>
+          </components>
+        </build>
+      </components>
+      <repository authority="yorktown.corp.adobe.com:1700" path="//photoshop/main/..." query="020000" scheme="p4" />
+    </build>
+  </versioninfo>
+</manifest>
